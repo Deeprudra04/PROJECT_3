@@ -1,4 +1,4 @@
- # PROJECT_3____
+ # PROJECT_3_
 #IRoC- U 2025 | ISRO Robotics Challenge – URSC 
 # IRoC-U 2025 – ISRO Robotics Challenge Project
 
@@ -52,13 +52,18 @@ The aerial system must be capable of:
 - **Stage Achieved:** Phase-1 Qualification
 
 ---
-
-## Team
-
-Students and researchers contributing to the development of **autonomous aerial navigation and robotics systems**.
-
 ---
 
-## Acknowledgment
+## My Involvement
 
-We thank **ISRO URSC** for organizing **IRoC-U 2025** and providing a platform for students to work on real-world problems related to **space robotics and planetary exploration**.
+In this project, I worked on the **hardware integration and flight stabilization of the drone platform**.
+
+My contributions include:
+
+- **Drone Assembly:** Assembled the drone frame and integrated components including flight controller, ESCs, motors, and power distribution.
+- **Hardware Connections:** Established proper electrical connections between flight controller, sensors, power modules, and communication interfaces.
+- **Drone Calibration:** Performed calibration of the flight controller including accelerometer, gyroscope, and ESC calibration to ensure stable operation.
+- **PID Tuning:** Tuned the **PID parameters for horizontal stabilization** and **vertical constant height control**.
+- **Sensor Constraints Handling:** Implemented stabilization without relying on an **optical flow sensor**, requiring careful PID tuning to maintain flight stability.
+
+These tasks ensured that the drone platform was **stable, controllable, and ready for autonomous navigation algorithm development** required for the IRoC-U 2025 challenge.
