@@ -67,3 +67,5 @@ My contributions include:
 - **Sensor Constraints Handling:** Implemented stabilization without relying on an **optical flow sensor**, requiring careful PID tuning to maintain flight stability.
 
 These tasks ensured that the drone platform was **stable, controllable, and ready for autonomous navigation algorithm development** required for the IRoC-U 2025 challenge.
+
+## For Connfidential perpous all the details are not uploaded 
